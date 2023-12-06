@@ -6,6 +6,7 @@
 #### Problem Formulation
 
 ![p](pic/model.png)
+
 $x_{ij} =1 $ means the task $i$ is assigned to uav $j$ with $a_{ij}$ is the return, $N_{i} $ is the maximum number of tasks that $i$ is assigned, $N_{ki} $ denotes the maximum number of tasks belongint to task set $T_k$ for uav $i$.
 
 #### Simulation
